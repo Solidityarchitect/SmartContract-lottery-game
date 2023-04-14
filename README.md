@@ -182,4 +182,4 @@ If you appreciated this, feel free to follow me or donate!
 
 ETH/Polygon/Avalanche/etc Address: 0xeb23E1a2784931A65D671DaA1235c8ae6435A367
 
-[![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https:twitter.com/SeiterArchitect)
+[![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https:twitter.com/SeiterArchitect](https://twitter.com/SeiterArchitect))
